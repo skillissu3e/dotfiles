@@ -1,0 +1,24 @@
+{ 
+    pkgs, 
+    ... 
+}:
+
+{
+    programs.nixvim = {
+        plugins.markdown-preview = {
+            enable = true;
+            settings = {
+                browser = "firefox-devedition";
+                theme = "dark";
+            };
+        };
+        keymaps = [ {
+            mode = "n";
+            key = "<leader>cp";
+            action = "<cmd>MarkdownPreview<cr>";
+            options = {
+                desc = "Markdown Preview";
+            };
+        } ];
+    };
+}
