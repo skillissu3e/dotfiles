@@ -1,0 +1,64 @@
+Quick credits:
+
+Francesco149 for keeping a repository of shigetora's skins (https://gist.github.com/Francesco149/a09c68cbe756951face7)
+Aesthetic Skin by Redon, where the spinner comes from originally (https://osu.ppy.sh/forum/t/189843)
+All the people who created the original designs for the original skins that got jumbled together (i hope you're proud)
+Me for having adequate skills in Photoshop
+h3oCharles for giving feedback for about a skin he clearly wanted to happen
+
+
+What's been HD'd/Fixed/Updated:
+
+Approach Circles
+Hitcircle Numbers
+Hitcircle (not really tho I just used the hitcircle from my personal skin)
+Hitcircle Overlay
+     - Alternate versions can be found in /alternates/
+Hit judge numbers
+Followpoints
+     - Alternate versions can be found in /alternates/
+Input Panel
+Menu words (Watch Replay, Retry, Accuracy, Perfect!, Ranking, etc)
+Letter Ranks
+Ranking Panel
+Score Numbers
+Section Fail and Pass
+Mod buttons
+     - These are remade with Trebuchet MS, since I can't find the original font.
+Slider Ball and Follow Circle
+Spinner RPM (From a newer version of the Aesthetic skin)
+Spinner Approach Circle and Bottom (From a newer version of the Aesthetic skin)
+Difficulty Star
+Menu Button
+Song Select Options
+    - These are remade with Cabo Rounded, since, again, I can't find the original font.
+
+
+What I've redone:
+
+Text is outlined lighter due to peppy not doing anti-aliasing right. It's still apparent on some things.
+Warning Arrow is now shaded white, since the game does shading for you already.
+Cut the Applause and FailSound for some of the alternates because 40 MB IS TOO MUCH WHY THIS IS NOT OK OH MY GOD DONT USE WAVS FOR FILES LONGER THAN 5 SECONDS
+
+
+What isn't here:
+
+I have not included anything past SameSkinButNoRingHitCirclesWeirdNamev3 or anything before shigetora+new, simply because they can be assumed a single "era" for ShigeSkins.
+
+The alternate slider follow circles aren't here, simply for the purpose of maintaining my sanity.
+
+I didn't redo the hitcircle lighting, simply because who actually uses it? Sorry if you do, but you're just wasting your frames.
+
+If anything has been redone above, the original is still in this skin. And if I was blind enough, the original may still be there.
+
+The Health Bars from: ShigeHDHR for hopefully obvious reasons, newSkin, newShige1, or shigetora+new are all not included.
+
+The spinner from newShige1 and shigetora+new are not included.
+
+The score numbers from newShige1 and shigetora+new are not included.
+
+The hit judge numbers from before ShigeHDHR are not included.
+
+The ScoreV2 button is not given an icon, simply because I can't think of how the person who originally made the mod icon designs would design the ScoreV2 button.
+
+I no-lifed doing this skin 3 days in a row. I'm just a single person.

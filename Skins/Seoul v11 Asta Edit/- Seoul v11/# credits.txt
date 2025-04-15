@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////// CREDITS //////////////////////////////////////////////////////
+/////////////////////////////////////////////////////// ART ////////////////////////////////////////////////////////
+// teffish (twitter - @teffish / pixiv - https://www.pixiv.net/users/673438) - mods and interface
+// ツチヤ / abisswalker (twitter - @abisswalker8 https://twitter.com/abisswalker8 - https://www.pixiv.net/users/9678597) - backgrounds
+// こもわた遙華 (twitter @mokowata https://twitter.com/mokowata / pixiv - https://www.pixiv.net/users/442855) - chibis
+// 蒼ウサギ (twitter @AoUSA0328 https://twitter.com/AoUSA0328 / pixiv - https://www.pixiv.net/users/19095613) - echidna/menugirl 
+// こおもい (twitter @koomoi_11 https://twitter.com/koomoi_11 / pixiv - https://www.pixiv.net/users/851032) - spinner/modeselect
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Fonts Used:
+// Josefin Sans - score numbers
+// Poppins - combo numbers, 50/100/300s
+// Kozuka Gothic Pro and Hiragino Maru Gothic Pro - UI text and main fonts for everything else
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Misc Sources:
+menu-background art: https://www.pixiv.net/artworks/82755969
+ranking panel echidna art: https://twitter.com/AoUSA0328/status/1530855497003565056
+failsound music:https://www.youtube.com/watch?v=-W5g0-S-_8s
+applause music: https://www.youtube.com/watch?v=3zAJuDjknGU
+

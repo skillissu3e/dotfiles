@@ -1,0 +1,1 @@
+To change the cursor, simply copypaste the contents of a folder into the skin's root folder "Aesthetic" and replace the existing files.

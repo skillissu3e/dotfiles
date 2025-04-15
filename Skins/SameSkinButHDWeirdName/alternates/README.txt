@@ -1,0 +1,1 @@
+Before applying any of the alternates, note that you should Copy+Paste them into the main directory, rather than just dragging them. This way, you don't entirely lose everything.
